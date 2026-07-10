@@ -1,5 +1,6 @@
 
 Global Airbnb Performance Dashboard
+
 1.An interactive Power BI dashboard analyzing Airbnb's global market growth, pricing, ratings, reviews, and host trust across major cities to uncover business trends and customer behavior.
 
 
