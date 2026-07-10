@@ -1,68 +1,107 @@
 
-Global Airbnb Performance Dashboard
 
-1.An interactive Power BI dashboard analyzing Airbnb's global market growth, pricing, ratings, reviews, and host trust across major cities to uncover business trends and customer behavior.
+🌍 Global Airbnb Performance Dashboard
 
+📌 Project Overview
 
-
-2. Short Description
-
-The Global Airbnb Performance Dashboard is a comprehensive Power BI project designed to analyze Airbnb listing performance across 10 major cities. It provides insights into listing growth, market share, pricing, customer ratings, review patterns, seasonality, and host verification. The dashboard enables stakeholders to monitor business performance, identify high-performing markets, and understand customer engagement through interactive visualizations.
+The Global Airbnb Performance Dashboard is an interactive Power BI project that analyzes Airbnb's global marketplace across 10 major cities. The dashboard provides comprehensive insights into listing growth, pricing trends, customer ratings, review patterns, and host verification, enabling stakeholders to monitor business performance, identify high-performing markets, and understand customer behavior through interactive visualizations.
 
 
 
-3. Tech Stack
-*Power BI Desktop
-*Power Query (Data Cleaning & Transformation)
-*DAX (Measures & Calculations)
-*Data Modeling
-*Interactive Data Visualization
+ 📖 Short Description
 
+This dashboard is designed to transform Airbnb listing, host, and review data into actionable business insights. It enables users to explore market trends, compare city performance, analyze pricing strategies, evaluate customer satisfaction, and assess host credibility using dynamic and interactive Power BI reports.
 
+---
 
-4. Data Source
+## 🛠️ Tech Stack
+
+* **Power BI Desktop**
+* **Power Query** (Data Cleaning & Transformation)
+* **DAX** (Measures & Calculations)
+* **Data Modeling**
+* **Interactive Data Visualization**
+
+---
+
+## 📂 Data Source
+
+The project is built using the following datasets:
 
 * Airbnb Listings Dataset
 * Airbnb Hosts Dataset
 * Airbnb Reviews Dataset
 
-5. Dataset Includes:
+---
+
+## 📋 Dataset Includes
 
 * Listings
 * Hosts
+* Cities
 * Property Types
 * Room Types
 * Prices
-* Reviews
 * Ratings
-* Cities
+* Reviews
 * Host Verification Details
 
+---
 
-
-6. Features
+## ✨ Dashboard Features
 
 * 📊 Executive KPI Dashboard
 * 📈 Airbnb Listing Growth Analysis (2008–2021)
 * 🌍 City-wise Market Share Analysis
 * 🏠 Property Type Distribution
 * 💰 Average Price Comparison by Room Type
-* ⭐ City-wise Customer Ratings
+* ⭐ Customer Ratings Analysis by City
 * 📝 Review Frequency Analysis
 * 📅 Seasonal Review Trends
 * 🔒 Host Trust & Identity Verification Analysis
 * 📌 Interactive Navigation Across Dashboard Pages
 
+---
+
+## 📊 Business Insights
+
+* Airbnb experienced its strongest listing growth between **2008 and 2015**, followed by slower expansion as several cities introduced stricter regulations.
+* The **COVID-19 pandemic** significantly impacted the platform, resulting in a noticeable decline in new listings after **2019**.
+* **Paris, New York City, and Sydney** together account for nearly **50%** of all listings and customer reviews, making them the platform's most active markets.
+* **Entire Place** accommodations dominate the marketplace, reflecting guests' preference for private stays over shared spaces.
+* **Mexico City** and **Rio de Janeiro** recorded the highest average customer ratings, indicating strong guest satisfaction.
+* Approximately **73%** of Airbnb hosts have verified identities, enhancing trust and credibility on the platform.
+* Nearly **99%** of customers leave **three or fewer reviews**, suggesting that review activity is concentrated among a relatively small group of users.
+* Seasonal review trends reveal increased customer engagement during peak travel periods, highlighting recurring demand patterns.
+
+---
+
+## 🎯 Project Objectives
+
+* Analyze Airbnb listing growth over time.
+* Compare market share across major cities.
+* Evaluate pricing trends by room and property type.
+* Measure customer satisfaction through ratings and reviews.
+* Analyze seasonal booking and review trends.
+* Assess host verification and trust metrics.
+* Deliver an interactive dashboard to support data-driven business decisions.
 
 
-7. Business Insights
 
-* Airbnb experienced its highest listing growth around 2015, followed by slower expansion due to stricter local regulations.
-* The COVID-19 pandemic significantly reduced new listings after 2019.
-* Paris, New York City, and Sydney account for nearly half of the total listings and customer reviews.
-* Entire Place listings dominate the Airbnb marketplace compared to other room types.
-* Mexico City and Rio de Janeiro achieved the highest average customer ratings, indicating strong guest satisfaction.
-* Nearly 73% of hosts have verified identities, strengthening trust and platform credibility.
-* Almost 99% of customers leave three or fewer reviews, showing that review activity is concentrated among a small group of users.
-* Seasonal review trends indicate higher customer activity during peak travel periods.
+
+
+
+## 💡 Skills Demonstrated
+
+* Data Cleaning & Transformation
+* Data Modeling
+* DAX Calculations
+* Dashboard Design
+* KPI Development
+* Business Intelligence
+* Data Visualization
+* Trend Analysis
+* Customer Behavior Analysis
+* Storytelling with Data
+and supports future development.
 
